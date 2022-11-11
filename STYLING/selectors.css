@@ -1,0 +1,15 @@
+body {
+    background: whitesmoke;
+}
+
+.title {
+    color: red;
+}
+
+.subtitle {
+    color: aqua;
+}
+
+#contact-us {
+    color: coral;
+}
